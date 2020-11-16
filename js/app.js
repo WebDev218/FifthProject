@@ -20,7 +20,7 @@ let photoList = [
 ['09.jpg', 'Countryside Lane','We enjoyed a quiet stroll down this countryside lane.'],
 ['10.jpg', 'Sunset','Sunset at the coast! The sky turned a lovely shade of orange.'],
 ['11.jpg', 'Cave','I did a tour of a cave today and the view of the landscape below was breathtaking.'],
-['12.jpg', 'Bluebells','I walked through this meadow of bluebells and got a good view of the snow on the mountain before the fog came in.']] // End of list
+['12.jpg', 'Bluebells','I walked through this meadow of bluebells and got a good view of the snow on the mountain before the fog came in.']]; // End of list
 
 
 
